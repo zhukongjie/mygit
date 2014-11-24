@@ -1,0 +1,6 @@
+Git is a version control system.
+Git is free software.
+
+
+author :kongjie.zhu
+time :2014Äê11ÔÂ24ÈÕ18:01:40
